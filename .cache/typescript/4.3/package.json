@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.551"
+  },
+  "devDependencies": {
+    "@types/aes-js": "^3.1.1",
+    "@types/async": "^3.2.7",
+    "@types/chai": "^4.2.21",
+    "@types/immediate": "^3.2.0",
+    "@types/sprintf": "^0.1.0"
+  }
+}
